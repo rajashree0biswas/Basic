@@ -1,5 +1,5 @@
 #subtraction of two integers
-a=int(input("Enter a number:"))
-b=int(input("Enter another number:"))
+a=int(input("Enter an integer:"))
+b=int(input("Enter another integer:"))
 print(a,"-",b,"=",a-b)
 print(b,"-",a,"=",b-a)
