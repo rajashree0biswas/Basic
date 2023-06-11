@@ -1,7 +1,5 @@
 #Float division between two integers
-n=int(input("Enter an integer:"))
-d=int(input("Enter another integer:"))
-n//d==float(n/d)
-d//n==float(d/n)
+n=float(input("Enter an integer:"))
+d=float(input("Enter another integer:"))
 print(n,"//",d,"=",n//d)
 print(d,"//",n,"=",d//n)
